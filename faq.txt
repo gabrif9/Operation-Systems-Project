@@ -1,0 +1,5 @@
+1) "il tempo di gestione di un singolo prodotto da parte di un cassiere é fisso" intende di ogni cassiere o di un singolo?
+R) È un tempo fisso per ogni prodotto, uguale per ogni cassiere
+
+2)tprod cambia da cassiere a cassiere?
+R)No non cambia da cassiere a cassiere
